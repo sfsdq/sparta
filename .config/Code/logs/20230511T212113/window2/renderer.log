@@ -1,0 +1,4 @@
+2023-05-11 21:21:23.673 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-05-11 21:22:11.718 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2023-05-11 21:22:39.091 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/safaessadqui/css.css 
+2023-05-11 21:22:39.109 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/safaessadqui/sparta/week1/index.html 

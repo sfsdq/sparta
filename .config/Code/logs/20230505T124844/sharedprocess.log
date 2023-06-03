@@ -1,0 +1,4 @@
+2023-05-05 12:49:10.870 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-05 12:49:11.522 [info] Started initializing default profile extensions in extensions installation folder. file:///home/safaessadqui/.vscode/extensions
+2023-05-05 12:49:17.066 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/safaessadqui/.vscode/extensions Unable to create file 'vscode-userdata:/home/safaessadqui/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-05-05 12:49:17.067 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/safaessadqui/.vscode/extensions

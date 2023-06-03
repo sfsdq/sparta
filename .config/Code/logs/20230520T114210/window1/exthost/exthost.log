@@ -1,0 +1,25 @@
+2023-05-20 11:42:20.715 [info] Extension host with pid 365 started
+2023-05-20 11:42:21.614 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-05-20 11:42:23.172 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-05-20 11:42:23.423 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-20 11:42:23.991 [info] Eager extensions activated
+2023-05-20 11:42:24.605 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-20 11:42:24.634 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-05-20 11:42:28.923 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-05-20 11:42:29.929 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-05-20 11:42:30.199 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-05-20 11:42:31.041 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-05-20 11:44:14.749 [info] Extension host terminating: renderer closed the MessagePort
+2023-05-20 11:44:14.854 [info] Extension host with pid 365 exiting with code 0
+2023-05-20 11:44:21.133 [info] Extension host with pid 754 started
+2023-05-20 11:44:21.133 [info] Skipping acquiring lock for /home/safaessadqui/.config/Code/User/workspaceStorage/d678b5d3bba10afb63ca9cca879f86b7.
+2023-05-20 11:44:21.629 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-05-20 11:44:21.931 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-05-20 11:44:22.174 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-20 11:44:22.751 [info] Eager extensions activated
+2023-05-20 11:44:23.749 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-20 11:44:23.759 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-05-20 11:44:28.927 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-05-20 11:44:29.271 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-05-20 16:34:20.161 [info] Extension host terminating: renderer closed the MessagePort
+2023-05-20 16:34:20.348 [info] Extension host with pid 754 exiting with code 0

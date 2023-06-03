@@ -1,0 +1,5 @@
+2023-05-06 13:22:45.888 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-05-06 13:23:28.631 [info] [perf] Render performance baseline is 921ms
+2023-05-06 13:25:44.578 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-05-06 13:25:50.997 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-05-06 13:25:53.786 [info] UNRESPONSIVE extension host: starting to profile NOW

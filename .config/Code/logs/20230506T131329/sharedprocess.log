@@ -1,0 +1,5 @@
+2023-05-06 13:13:50.343 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-06 13:13:51.192 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2023-05-06 13:14:01.471 [error] No ptyHost heartbeat after 12 seconds
+2023-05-06 13:14:17.791 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-06 13:14:45.866 [warning] No ptyHost heartbeat after 6 seconds

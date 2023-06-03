@@ -1,0 +1,40 @@
+2023-05-06 13:20:25.688 [info] update#setState idle
+2023-05-06 13:20:56.157 [info] update#setState checking for updates
+2023-05-06 13:20:56.583 [info] update#setState idle
+2023-05-06 13:21:49.331 [info] Extension host with pid 3210 exited with code: 0, signal: unknown.
+2023-05-06 13:22:54.336 [info] Extension host with pid 3286 exited with code: 0, signal: unknown.
+2023-05-06 13:23:47.331 [info] Extension host with pid 3346 exited with code: 0, signal: unknown.
+2023-05-06 14:20:56.261 [info] update#setState checking for updates
+2023-05-06 14:20:56.852 [info] update#setState idle
+2023-05-06 15:20:56.320 [info] update#setState checking for updates
+2023-05-06 15:20:56.980 [info] update#setState idle
+2023-05-06 16:20:56.444 [info] update#setState checking for updates
+2023-05-06 16:20:56.820 [info] update#setState idle
+2023-05-06 17:44:54.812 [info] update#setState checking for updates
+2023-05-06 17:45:03.797 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49241)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-05-06 17:45:03.811 [info] update#setState idle
+2023-05-06 18:44:53.762 [info] update#setState checking for updates
+2023-05-06 18:44:54.475 [info] update#setState idle
+2023-05-06 19:44:53.820 [info] update#setState checking for updates
+2023-05-06 19:44:54.773 [info] update#setState idle
+2023-05-06 20:44:53.122 [info] update#setState checking for updates
+2023-05-06 20:45:03.155 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49241)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-05-06 20:45:03.156 [info] update#setState idle
+2023-05-06 22:04:57.966 [info] update#setState checking for updates
+2023-05-06 22:05:03.004 [info] update#setState idle
+2023-05-06 23:04:55.432 [info] update#setState checking for updates
+2023-05-06 23:04:56.115 [info] update#setState idle
+2023-05-07 00:04:54.684 [info] update#setState checking for updates
+2023-05-07 00:04:57.572 [info] update#setState idle
+2023-05-07 01:04:54.769 [info] update#setState checking for updates
+2023-05-07 01:04:57.868 [info] update#setState idle
+2023-05-07 02:04:54.879 [info] update#setState checking for updates
+2023-05-07 02:04:55.406 [info] update#setState idle
+2023-05-07 10:33:48.217 [info] update#setState checking for updates
+2023-05-07 10:33:55.179 [info] update#setState idle
+2023-05-07 11:33:46.456 [info] update#setState checking for updates
+2023-05-07 11:33:46.859 [info] update#setState idle

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/safaessadqui/week1" added="2023-05-06T12:08:02.568621Z" modified="2023-05-11T20:25:27.443676Z" visited="2023-05-06T12:08:02.568642Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-05-11T20:25:27.443668Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/safaessadqui" added="2023-05-06T12:21:48.231566Z" modified="2023-05-20T10:44:14.330451Z" visited="2023-05-06T12:21:48.231568Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-05-20T10:44:14.330442Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/safaessadqui/sparta/week1/css" added="2023-05-07T09:57:00.476986Z" modified="2023-05-07T09:57:00.477007Z" visited="2023-05-07T09:57:00.476988Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-05-07T09:57:00.476997Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/safaessadqui/week1/week2" added="2023-05-20T10:43:21.316885Z" modified="2023-05-20T10:43:21.316908Z" visited="2023-05-20T10:43:21.316888Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-05-20T10:43:21.316898Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

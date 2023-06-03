@@ -1,0 +1,5 @@
+2023-05-06 11:59:24.403 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-06 13:08:22.510 [error] [uncaught exception in sharedProcess]: A system error occurred (getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com): Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+2023-05-06 13:08:46.116 [error] [uncaught exception in sharedProcess]: A system error occurred (getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com): Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)

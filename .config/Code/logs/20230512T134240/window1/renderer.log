@@ -1,0 +1,3 @@
+2023-05-12 13:42:50.170 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-05-12 13:43:35.077 [info] [perf] Render performance baseline is 608ms
+2023-05-12 13:45:44.663 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.untitledWorkspace
